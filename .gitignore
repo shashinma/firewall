@@ -1,0 +1,15 @@
+*.cab
+*.dll
+*.exe
+*.pdb
+*.qm
+*.sys
+
+build*/
+
+*.pro.u*
+*Makefile*
+
+.qmake.stash
+uic_wrapper.bat
+

@@ -1,0 +1,34 @@
+[
+    {
+        "code": "text",
+        "title": "Addresses from Inline Text",
+        "zoneType": "gen"
+    },
+    {
+        "code": "file",
+        "title": "Addresses from Local File",
+        "zoneType": "gen",
+        "url": ""
+    },
+    {
+        "code": "winspyblock",
+        "title": "WindowsSpyBlocker",
+        "zoneType": "gen",
+        "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt",
+        "formData": ""
+    },
+    {
+        "code": "firehol_level1",
+        "title": "FireHOL Level-1 (attacks)",
+        "zoneType": "gen",
+        "url": "https://iplists.firehol.org/files/firehol_level1.netset",
+        "formData": ""
+    },
+    {
+        "code": "tasix",
+        "title": "TAS-IX Addresses",
+        "zoneType": "bgp",
+        "url": "http://mrlg.tas-ix.uz/index.cgi",
+        "formData": "router=cisco&pass1=&query=1&arg="
+    }
+]
